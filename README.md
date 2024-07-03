@@ -24,3 +24,6 @@ Usage
 To use this script, you'll need a Mapbox API key. You can sign up for a free account at mapbox.com. Once you have an API key, run the script and enter your API key and the latitude and longitude of the location you want to find addresses for:
 
 python mapbox_reverse_geocoding.py
+
+
+![image](https://github.com/johannvig/geocoding-address-generator/assets/102874093/72af8f86-9367-484f-a7a8-fe977a9f2553)
