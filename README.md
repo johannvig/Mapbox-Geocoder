@@ -40,7 +40,12 @@ To set up and run this project locally, follow these steps:
 - `styles.css`: The CSS file for styling the web page.
 - `scripts.js`: The JavaScript file containing the logic for fetching data from the Mapbox API and handling user interactions.
 
-
-![image](https://github.com/johannvig/geocoding-address-generator/assets/102874093/72af8f86-9367-484f-a7a8-fe977a9f2553)
-![image](https://github.com/johannvig/geocoding-address-generator/assets/102874093/a7ea9255-c8b9-475a-9ba3-85496b95b3fc)
-![image](https://github.com/johannvig/geocoding-address-generator/assets/102874093/1fa414cd-2ae2-4894-9dd5-ad7c993613a2)
+<p align="center">
+  <img src="https://github.com/johannvig/geocoding-address-generator/assets/102874093/72af8f86-9367-484f-a7a8-fe977a9f2553" width="500" alt="Screenshot 2024-04-30 201142">
+</p>
+<p align="center">
+  <img src="https://github.com/johannvig/geocoding-address-generator/assets/102874093/a7ea9255-c8b9-475a-9ba3-85496b95b3fc" width="500" alt="Screenshot 2024-04-30 201142">
+</p>
+<p align="center">
+  <img src="https://github.com/johannvig/geocoding-address-generator/assets/102874093/1fa414cd-2ae2-4894-9dd5-ad7c993613a2" width="500" alt="Screenshot 2024-04-30 201142">
+</p>
